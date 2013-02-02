@@ -2,6 +2,7 @@ vim-fat-finger
 ==============
 
 A simple vim plugin that automatically corrects common misspellings and typos as you type.
+[http://www.vim.org/scripts/script.php?script_id=4423](http://www.vim.org/scripts/script.php?script_id=4423)
 
 
 ## Misspellings
