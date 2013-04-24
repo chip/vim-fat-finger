@@ -1,24 +1,21 @@
-iabbrev abandonned abandoned
+iabbrev abbout about
 iabbrev aberation aberration
 iabbrev abilties abilities
 iabbrev abilty ability
 iabbrev abondon abandon
-iabbrev abbout about
-iabbrev abotu about
-iabbrev abscence absence
 iabbrev abondoned abandoned
 iabbrev abondoning abandoning
 iabbrev abondons abandons
 iabbrev aborigene aborigine
-iabbrev accesories accessories
-iabbrev accidant accident
 iabbrev abortificant abortifacient
+iabbrev abotu about
 iabbrev abreviate abbreviate
 iabbrev abreviated abbreviated
 iabbrev abreviation abbreviation
 iabbrev abritrary arbitrary
 iabbrev absail abseil
 iabbrev absailing abseiling
+iabbrev abscence absence
 iabbrev absense absence
 iabbrev absolutly absolutely
 iabbrev absorbsion absorption
@@ -37,7 +34,9 @@ iabbrev accelleration acceleration
 iabbrev accension ascension
 iabbrev acceptence acceptance
 iabbrev acceptible acceptable
+iabbrev accesories accessories
 iabbrev accessable accessible
+iabbrev accidant accident
 iabbrev accidentaly accidentally
 iabbrev accidently accidentally
 iabbrev acclimitization acclimatization
@@ -82,7 +81,11 @@ iabbrev achivements achievements
 iabbrev acknowldeged acknowledged
 iabbrev acknowledgeing acknowledging
 iabbrev ackward awkward
+iabbrev acn can
 iabbrev acommodate accommodate
+iabbrev acommodated accommodated
+iabbrev acomodate accommodate
+iabbrev acomodated accommodated
 iabbrev acomplish accomplish
 iabbrev acomplished accomplished
 iabbrev acomplishment accomplishment
@@ -243,6 +246,8 @@ iabbrev alltogether altogether
 iabbrev almsot almost
 iabbrev alochol alcohol
 iabbrev alomst almost
+iabbrev alos also
+iabbrev alot a lot
 iabbrev alotted allotted
 iabbrev alowed allowed
 iabbrev alowing allowing
@@ -285,6 +290,7 @@ iabbrev ancilliary ancillary
 iabbrev andd and
 iabbrev androgenous androgynous
 iabbrev androgeny androgyny
+iabbrev andthe and the
 iabbrev anihilation annihilation
 iabbrev aniversary anniversary
 iabbrev annoint anoint
@@ -318,6 +324,7 @@ iabbrev aparment apartment
 iabbrev apenines apennines
 iabbrev aplication application
 iabbrev aplied applied
+iabbrev aplyed applied
 iabbrev apolegetics apologetics
 iabbrev apon upon
 iabbrev apparant apparent
@@ -329,6 +336,7 @@ iabbrev appealling appealing
 iabbrev appeareance appearance
 iabbrev appearence appearance
 iabbrev appearences appearances
+iabbrev appeares appears
 iabbrev appenines apennines
 iabbrev apperance appearance
 iabbrev apperances appearances
@@ -476,6 +484,7 @@ iabbrev attitide attitude
 iabbrev attributred attributed
 iabbrev attrocities atrocities
 iabbrev audeince audience
+iabbrev audiance audience
 iabbrev auromated automated
 iabbrev austrailia Australia
 iabbrev austrailian Australian
@@ -518,6 +527,7 @@ iabbrev baceause because
 iabbrev backgorund background
 iabbrev backrounds backgrounds
 iabbrev bakc back
+iabbrev balence balance
 iabbrev banannas bananas
 iabbrev bandwith bandwidth
 iabbrev bankrupcy bankruptcy
@@ -541,6 +551,7 @@ iabbrev becomeing becoming
 iabbrev becomming becoming
 iabbrev becouse because
 iabbrev becuase because
+iabbrev becuse because
 iabbrev bedore before
 iabbrev beeing being
 iabbrev befoer before
@@ -580,6 +591,8 @@ iabbrev beteen between
 iabbrev betwen between
 iabbrev beween between
 iabbrev bewteen between
+iabbrev bianries binaries
+iabbrev bianry binary
 iabbrev bilateraly bilaterally
 iabbrev billingualism bilingualism
 iabbrev binominal binomial
@@ -598,6 +611,7 @@ iabbrev borke broke
 iabbrev boundry boundary
 iabbrev bouyancy buoyancy
 iabbrev bouyant buoyant
+iabbrev boxs boxes
 iabbrev boyant buoyant
 iabbrev Brasillian Brazilian
 iabbrev breakthough breakthrough
@@ -625,6 +639,7 @@ iabbrev busines business
 iabbrev busineses business
 iabbrev busness business
 iabbrev bussiness business
+iabbrev bve be
 iabbrev caculater calculator
 iabbrev cacuses caucuses
 iabbrev cahracters characters
@@ -746,6 +761,7 @@ iabbrev challanged challenged
 iabbrev challege challenge
 iabbrev Champange Champagne
 iabbrev changable changeable
+iabbrev changeing changing
 iabbrev charachter character
 iabbrev charachters characters
 iabbrev charactersistic characteristic
@@ -753,6 +769,10 @@ iabbrev charactor character
 iabbrev charactors characters
 iabbrev charasmatic charismatic
 iabbrev charaterized characterized
+iabbrev charcter character
+iabbrev charcters characters
+iabbrev charecter character
+iabbrev charector character
 iabbrev chariman chairman
 iabbrev charistics characteristics
 iabbrev chasr chaser
@@ -790,12 +810,14 @@ iabbrev clincial clinical
 iabbrev clinicaly clinically
 iabbrev cmo com
 iabbrev cmoputer computer
+iabbrev cna can
 iabbrev coctail cocktail
 iabbrev coform conform
 iabbrev cognizent cognizant
 iabbrev coincedentally coincidentally
 iabbrev colaborations collaborations
 iabbrev colateral collateral
+iabbrev colection collection
 iabbrev colelctive collective
 iabbrev collaberative collaborative
 iabbrev collecton collection
@@ -811,6 +833,7 @@ iabbrev comando commando
 iabbrev comandos commandos
 iabbrev comany company
 iabbrev comapany company
+iabbrev comapny company
 iabbrev comback comeback
 iabbrev combanations combinations
 iabbrev combinatins combinations
@@ -856,6 +879,7 @@ iabbrev commiting committing
 iabbrev committe committee
 iabbrev committment commitment
 iabbrev committments commitments
+iabbrev committy committee
 iabbrev commmemorated commemorated
 iabbrev commongly commonly
 iabbrev commonweath commonwealth
@@ -865,6 +889,7 @@ iabbrev communciation communication
 iabbrev communiation communication
 iabbrev communites communities
 iabbrev compability compatibility
+iabbrev compair compare
 iabbrev comparision comparison
 iabbrev comparisions comparisons
 iabbrev comparitive comparative
@@ -888,8 +913,10 @@ iabbrev competive competitive
 iabbrev competiveness competitiveness
 iabbrev comphrehensive comprehensive
 iabbrev compitent competent
+iabbrev compleated completed
 iabbrev completelyl completely
 iabbrev completetion completion
+iabbrev completly completely
 iabbrev complier compiler
 iabbrev componant component
 iabbrev comprable comparable
@@ -897,6 +924,8 @@ iabbrev comprimise compromise
 iabbrev compulsary compulsory
 iabbrev compulsery compulsory
 iabbrev computarized computerized
+iabbrev comunicate communicate
+iabbrev comunity community
 iabbrev concensus consensus
 iabbrev concider consider
 iabbrev concidered considered
@@ -977,7 +1006,6 @@ iabbrev constituion constitution
 iabbrev constituional constitutional
 iabbrev consttruction construction
 iabbrev constuction construction
-iabbrev contstruction construction
 iabbrev consulant consultant
 iabbrev consumate consummate
 iabbrev consumated consummated
@@ -1014,6 +1042,7 @@ iabbrev controversey controversy
 iabbrev controvertial controversial
 iabbrev controvery controversy
 iabbrev contruction construction
+iabbrev contstruction construction
 iabbrev conveinent convenient
 iabbrev convenant covenant
 iabbrev convential conventional
@@ -1045,6 +1074,7 @@ iabbrev corrisponded corresponded
 iabbrev corrisponding corresponding
 iabbrev corrisponds corresponds
 iabbrev costitution constitution
+iabbrev cotten cotton
 iabbrev coucil council
 iabbrev coudl could
 iabbrev councellor counselor
@@ -1083,6 +1113,7 @@ iabbrev curch church
 iabbrev curcuit circuit
 iabbrev currenly currently
 iabbrev curriculem curriculum
+iabbrev cxan can
 iabbrev cxan cyan
 iabbrev cyclinder cylinder
 iabbrev dacquiri daiquiri
@@ -1091,6 +1122,7 @@ iabbrev dael deal
 iabbrev dalmation dalmatian
 iabbrev damenor demeanor
 iabbrev dammage damage
+iabbrev danceing dancing
 iabbrev Dardenelles Dardanelles
 iabbrev daugher daughter
 iabbrev debateable debatable
@@ -1216,6 +1248,7 @@ iabbrev dieties deities
 iabbrev diety deity
 iabbrev diferent different
 iabbrev diferrent different
+iabbrev differant different
 iabbrev differentiatiations differentiations
 iabbrev differnt different
 iabbrev difficulity difficulty
@@ -1298,7 +1331,6 @@ iabbrev diversed diverse
 iabbrev divice device
 iabbrev divison division
 iabbrev divisons divisions
-iabbrev dum dumb
 iabbrev doccument document
 iabbrev doccumented documented
 iabbrev doccuments documents
@@ -1306,8 +1338,10 @@ iabbrev docrines doctrines
 iabbrev doctines doctrines
 iabbrev documenatry documentary
 iabbrev doens does
+iabbrev doese does
 iabbrev doesnt doesn't
 iabbrev doign doing
+iabbrev doller dollars
 iabbrev dominaton domination
 iabbrev dominent dominant
 iabbrev dominiant dominant
@@ -1320,9 +1354,11 @@ iabbrev draughtman draughtsman
 iabbrev Dravadian Dravidian
 iabbrev dreasm dreams
 iabbrev driectly directly
+iabbrev driveing driving
 iabbrev drnik drink
 iabbrev druming drumming
 iabbrev drummless drumless
+iabbrev dum dumb
 iabbrev dupicate duplicate
 iabbrev durig during
 iabbrev durring during
@@ -1349,6 +1385,7 @@ iabbrev efficently efficiently
 iabbrev efford effort
 iabbrev effords efforts
 iabbrev effulence effluence
+iabbrev ehr her
 iabbrev eigth eight
 iabbrev eiter either
 iabbrev elction election
@@ -1367,6 +1404,11 @@ iabbrev eligable eligible
 iabbrev elimentary elementary
 iabbrev ellected elected
 iabbrev elphant elephant
+iabbrev elsef elseif
+iabbrev elseof elseif
+iabbrev elsif elseif
+iabbrev elsiof elseif
+iabbrev elsof elseif
 iabbrev embarass embarrass
 iabbrev embarassed embarrassed
 iabbrev embarassing embarrassing
@@ -1412,6 +1454,7 @@ iabbrev encryptiion encryption
 iabbrev encylopedia encyclopedia
 iabbrev endevors endeavors
 iabbrev endevour endeavour
+iabbrev endfi endif
 iabbrev endig ending
 iabbrev endolithes endoliths
 iabbrev enduce induce
@@ -1524,6 +1567,7 @@ iabbrev excells excels
 iabbrev excercise exercise
 iabbrev exchanching exchanging
 iabbrev excisted existed
+iabbrev excitment excitement
 iabbrev exculsivly exclusively
 iabbrev execising exercising
 iabbrev exection execution
@@ -1553,6 +1597,7 @@ iabbrev existince existence
 iabbrev exliled exiled
 iabbrev exludes excludes
 iabbrev exmaple example
+iabbrev exmaples examples
 iabbrev exonorate exonerate
 iabbrev exoskelaton exoskeleton
 iabbrev expalin explain
@@ -1593,6 +1638,7 @@ iabbrev extrordinary extraordinary
 iabbrev eyar year
 iabbrev eyars years
 iabbrev eyasr years
+iabbrev eyt yet
 iabbrev faciliate facilitate
 iabbrev faciliated facilitated
 iabbrev faciliates facilitates
@@ -1600,6 +1646,7 @@ iabbrev facilites facilities
 iabbrev facillitate facilitate
 iabbrev facinated fascinated
 iabbrev facist fascist
+iabbrev familar familiar
 iabbrev familes families
 iabbrev familliar familiar
 iabbrev famoust famous
@@ -1612,6 +1659,7 @@ iabbrev feasable feasible
 iabbrev Febuary February
 iabbrev Feburary February
 iabbrev fedreally federally
+iabbrev feild field
 iabbrev feromone pheromone
 iabbrev fertily fertility
 iabbrev fianite finite
@@ -1638,8 +1686,9 @@ iabbrev Flemmish Flemish
 iabbrev florescent fluorescent
 iabbrev flourescent fluorescent
 iabbrev flourine fluorine
-iabbrev fluorish flourish
 iabbrev flourishment flourishing
+iabbrev fluorish flourish
+iabbrev follwo follow
 iabbrev follwoing following
 iabbrev folowing following
 iabbrev fomed formed
@@ -1679,6 +1728,8 @@ iabbrev Fransiscans Franciscans
 iabbrev freind friend
 iabbrev freindly friendly
 iabbrev frequentily frequently
+iabbrev frmo from
+iabbrev fro for
 iabbrev frome from
 iabbrev fromed formed
 iabbrev froniter frontier
@@ -1696,6 +1747,7 @@ iabbrev funtion function
 iabbrev furuther further
 iabbrev futher further
 iabbrev futhermore furthermore
+iabbrev fwe few
 iabbrev gae game
 iabbrev galatic galactic
 iabbrev Galations Galatians
@@ -1726,7 +1778,9 @@ iabbrev geographicial geographical
 iabbrev geometrician geometer
 iabbrev geometricians geometers
 iabbrev gerat great
+iabbrev geting getting
 iabbrev Ghandi Gandhi
+iabbrev giveing giving
 iabbrev glight flight
 iabbrev gnawwed gnawed
 iabbrev godess goddess
@@ -1762,6 +1816,7 @@ iabbrev greatfully gratefully
 iabbrev greif grief
 iabbrev gridles griddles
 iabbrev gropu group
+iabbrev gruop group
 iabbrev grwo grow
 iabbrev Guaduloupe Guadalupe
 iabbrev Guadulupe Guadalupe
@@ -1816,7 +1871,9 @@ iabbrev harrassment harassment
 iabbrev harrassments harassments
 iabbrev hasnt hasn't
 iabbrev Hatian Haitian
+iabbrev haveing having
 iabbrev haviest heaviest
+iabbrev hda had
 iabbrev headquarer headquarter
 iabbrev headquater headquarter
 iabbrev headquatered headquartered
@@ -1833,6 +1890,7 @@ iabbrev helpfull helpful
 iabbrev helpped helped
 iabbrev hemmorhage hemorrhage
 iabbrev herad heard
+iabbrev herat heart
 iabbrev heridity heredity
 iabbrev heroe hero
 iabbrev heros heroes
@@ -1840,6 +1898,7 @@ iabbrev hertiage heritage
 iabbrev hertzs hertz
 iabbrev hesistant hesitant
 iabbrev heterogenous heterogeneous
+iabbrev hge he
 iabbrev hieght height
 iabbrev hierachical hierarchical
 iabbrev hierachies hierarchies
@@ -1871,8 +1930,11 @@ iabbrev hospitible hospitable
 iabbrev hounour honour
 iabbrev housr hours
 iabbrev howver however
+iabbrev hsa has
+iabbrev hsi his
 iabbrev hsitorians historians
 iabbrev hstory history
+iabbrev hte the
 iabbrev hten then
 iabbrev htere there
 iabbrev htey they
@@ -1904,6 +1966,7 @@ iabbrev hypocricy hypocrisy
 iabbrev hypocrit hypocrite
 iabbrev hypocrits hypocrites
 iabbrev iconclastic iconoclastic
+iabbrev idae idea
 iabbrev idaeidae idea
 iabbrev idaes ideas
 iabbrev idealogies ideologies
@@ -1914,6 +1977,7 @@ iabbrev ideosyncratic idiosyncratic
 iabbrev idesa ideas
 iabbrev idiosyncracy idiosyncrasy
 iabbrev Ihaca Ithaca
+iabbrev ihs his
 iabbrev illegimacy illegitimacy
 iabbrev illegitmate illegitimate
 iabbrev illess illness
@@ -1996,6 +2060,7 @@ iabbrev inctroduce introduce
 iabbrev inctroduced introduced
 iabbrev incuding including
 iabbrev incunabla incunabula
+iabbrev indecate indicate
 iabbrev indefinately indefinitely
 iabbrev indefineable undefinable
 iabbrev indefinitly indefinitely
@@ -2072,6 +2137,7 @@ iabbrev insitution institution
 iabbrev insitutions institutions
 iabbrev instade instead
 iabbrev instatance instance
+iabbrev insted intead
 iabbrev institue institute
 iabbrev instuction instruction
 iabbrev instuments instruments
@@ -2105,6 +2171,7 @@ iabbrev intertaining entertaining
 iabbrev interupt interrupt
 iabbrev intervines intervenes
 iabbrev intevene intervene
+iabbrev inthe in the
 iabbrev intial initial
 iabbrev intially initially
 iabbrev intrduced introduced
@@ -2215,14 +2282,18 @@ iabbrev libguistic linguistic
 iabbrev libguistics linguistics
 iabbrev libitarianisn libertarianism
 iabbrev lible libel
+iabbrev librarry library
+iabbrev librery library
 iabbrev lieing lying
 iabbrev liek like
 iabbrev liekd liked
 iabbrev liesure leisure
 iabbrev lieuenant lieutenant
+iabbrev liev live
 iabbrev lieved lived
 iabbrev liftime lifetime
 iabbrev likelyhood likelihood
+iabbrev likly likely
 iabbrev linnaena linnaean
 iabbrev lippizaner lipizzaner
 iabbrev liquify liquefy
@@ -2236,6 +2307,7 @@ iabbrev literture literature
 iabbrev littel little
 iabbrev litterally literally
 iabbrev liuke like
+iabbrev liveing living
 iabbrev livley lively
 iabbrev lmits limits
 iabbrev loev love
@@ -2265,6 +2337,7 @@ iabbrev maintinaing maintaining
 iabbrev maintioned mentioned
 iabbrev majoroty majority
 iabbrev maked marked
+iabbrev makeing making
 iabbrev makse makes
 iabbrev Malcom Malcolm
 iabbrev maltesian Maltese
@@ -2447,10 +2520,12 @@ iabbrev muscicians musicians
 iabbrev mutiliated mutilated
 iabbrev myraid myriad
 iabbrev mysef myself
+iabbrev mysefl myself
 iabbrev mysogynist misogynist
 iabbrev mysogyny misogyny
 iabbrev mysterous mysterious
 iabbrev Mythraic Mithraic
+iabbrev myu my
 iabbrev naieve naive
 iabbrev Naploeon Napoleon
 iabbrev Napolean Napoleon
@@ -2527,6 +2602,8 @@ iabbrev nusance nuisance
 iabbrev nutritent nutrient
 iabbrev nutritents nutrients
 iabbrev nuturing nurturing
+iabbrev nwe new
+iabbrev nwo now
 iabbrev obediance obedience
 iabbrev obediant obedient
 iabbrev obession obsession
@@ -2569,6 +2646,7 @@ iabbrev octohedral octahedral
 iabbrev octohedron octahedron
 iabbrev ocuntries countries
 iabbrev ocuntry country
+iabbrev ocur occur
 iabbrev ocurr occur
 iabbrev ocurrance occurrence
 iabbrev ocurred occurred
@@ -2583,7 +2661,9 @@ iabbrev officaly officially
 iabbrev officialy officially
 iabbrev offred offered
 iabbrev oftenly often
+iabbrev oging going
 iabbrev oging ogling
+iabbrev ohter other
 iabbrev ok OK
 iabbrev omision omission
 iabbrev omited omitted
@@ -2606,6 +2686,7 @@ iabbrev opose oppose
 iabbrev oposite opposite
 iabbrev oposition opposition
 iabbrev oppenly openly
+iabbrev opperation operation
 iabbrev oppinion opinion
 iabbrev opponant opponent
 iabbrev oppononent opponent
@@ -2619,6 +2700,8 @@ iabbrev opthalmologist ophthalmologist
 iabbrev opthalmology ophthalmology
 iabbrev opthamologist ophthalmologist
 iabbrev optmizations optimizations
+iabbrev optoin option
+iabbrev optoins options
 iabbrev optomism optimism
 iabbrev orded ordered
 iabbrev organim organism
@@ -2628,6 +2711,7 @@ iabbrev orgin origin
 iabbrev orginal original
 iabbrev orginally originally
 iabbrev orginize organise
+iabbrev orginized organized
 iabbrev oridinarily ordinarily
 iabbrev origanaly originally
 iabbrev originall original
@@ -2638,6 +2722,7 @@ iabbrev origional original
 iabbrev orignally originally
 iabbrev orignially originally
 iabbrev otehr other
+iabbrev otu out
 iabbrev oublisher publisher
 iabbrev ouevre oeuvre
 iabbrev oustanding outstanding
@@ -2799,6 +2884,7 @@ iabbrev plebicite plebiscite
 iabbrev plesant pleasant
 iabbrev poenis penis
 iabbrev poeoples peoples
+iabbrev poeple people
 iabbrev poety poetry
 iabbrev poisin poison
 iabbrev polical political
@@ -2822,6 +2908,7 @@ iabbrev popoulation population
 iabbrev popularaty popularity
 iabbrev populare popular
 iabbrev populer popular
+iabbrev porblem problem
 iabbrev portait portrait
 iabbrev portayed portrayed
 iabbrev portraing portraying
@@ -2928,9 +3015,9 @@ iabbrev primative primitive
 iabbrev primatively primitively
 iabbrev primatives primitives
 iabbrev primordal primordial
-iabbrev principlaity principality
 iabbrev principaly principality
 iabbrev principial principal
+iabbrev principlaity principality
 iabbrev principly principally
 iabbrev prinicipal principal
 iabbrev privalege privilege
@@ -3012,6 +3099,7 @@ iabbrev protaganist protagonist
 iabbrev protaganists protagonists
 iabbrev protocal protocol
 iabbrev protoganist protagonist
+iabbrev protoge protege
 iabbrev protrayed portrayed
 iabbrev protruberance protuberance
 iabbrev protruberances protuberances
@@ -3066,7 +3154,9 @@ iabbrev qtuie quite
 iabbrev quantaty quantity
 iabbrev quantitiy quantity
 iabbrev quarantaine quarantine
+iabbrev quater quarter
 iabbrev Queenland Queensland
+iabbrev questoin question
 iabbrev questonable questionable
 iabbrev quicklyu quickly
 iabbrev quinessential quintessential
@@ -3102,6 +3192,7 @@ iabbrev reccommending recommending
 iabbrev reccuring recurring
 iabbrev receeded receded
 iabbrev receeding receding
+iabbrev receieve receive
 iabbrev recepient recipient
 iabbrev recepients recipients
 iabbrev receving receiving
@@ -3134,6 +3225,7 @@ iabbrev recommedations recommendations
 iabbrev recompence recompense
 iabbrev reconaissance reconnaissance
 iabbrev reconcilation reconciliation
+iabbrev reconize recognize
 iabbrev reconized recognized
 iabbrev reconnaisance reconnaissance
 iabbrev reconnaissence reconnaissance
@@ -3409,14 +3501,17 @@ iabbrev sedereal sidereal
 iabbrev seeked sought
 iabbrev segementation segmentation
 iabbrev seguoys segues
+iabbrev seh she
 iabbrev seige siege
 iabbrev seing seeing
 iabbrev seinor senior
 iabbrev seldomly seldom
+iabbrev selectoin selection
 iabbrev senarios scenarios
 iabbrev sence sense
 iabbrev senstive sensitive
 iabbrev sensure censure
+iabbrev sentance sentence
 iabbrev seperate separate
 iabbrev seperated separated
 iabbrev seperately separately
@@ -3573,6 +3668,7 @@ iabbrev stingent stringent
 iabbrev stiring stirring
 iabbrev stirrs stirs
 iabbrev stlye style
+iabbrev stnad stand
 iabbrev stomache stomach
 iabbrev stong strong
 iabbrev stopry story
@@ -3596,11 +3692,13 @@ iabbrev strenghtened strengthened
 iabbrev strenghtening strengthening
 iabbrev strengtened strengthened
 iabbrev strenous strenuous
+iabbrev strentgh strength
 iabbrev strictist strictest
 iabbrev strikely strikingly
 iabbrev strnad strand
 iabbrev stroy story
 iabbrev structual structural
+iabbrev struggel struggle
 iabbrev stubborness stubbornness
 iabbrev stucture structure
 iabbrev stuctured structured
@@ -3798,6 +3896,7 @@ iabbrev territoy territory
 iabbrev terroist terrorist
 iabbrev testiclular testicular
 iabbrev tghe the
+iabbrev thansk thanks
 iabbrev thast that
 iabbrev theather theater
 iabbrev theese these
@@ -3820,6 +3919,7 @@ iabbrev thikn think
 iabbrev thikning thinking
 iabbrev thikns thinks
 iabbrev thiunk think
+iabbrev thme them
 iabbrev thn then
 iabbrev thna than
 iabbrev thne then
@@ -3863,6 +3963,7 @@ iabbrev tomatos tomatoes
 iabbrev tommorow tomorrow
 iabbrev tommorrow tomorrow
 iabbrev tongiht tonight
+iabbrev tonihgt tonight
 iabbrev toriodal toroidal
 iabbrev tormenters tormentors
 iabbrev tornadoe tornado
@@ -3873,6 +3974,7 @@ iabbrev tounge tongue
 iabbrev tourch torch
 iabbrev towords towards
 iabbrev towrad toward
+iabbrev tpyo typo
 iabbrev tradionally traditionally
 iabbrev traditionaly traditionally
 iabbrev traditionnal traditional
@@ -3915,6 +4017,7 @@ iabbrev twelth twelfth
 iabbrev twon town
 iabbrev twpo two
 iabbrev tyhat that
+iabbrev tyhe the
 iabbrev tyhe they
 iabbrev typcial typical
 iabbrev typicaly typically
@@ -4032,6 +4135,7 @@ iabbrev ususally usually
 iabbrev vaccum vacuum
 iabbrev vaccume vacuum
 iabbrev vacinity vicinity
+iabbrev vacumme vacuum
 iabbrev vaguaries vagaries
 iabbrev vaieties varieties
 iabbrev vailidty validity
@@ -4136,12 +4240,15 @@ iabbrev wief wife
 iabbrev wierd weird
 iabbrev wiew view
 iabbrev wih with
+iabbrev wihch which
 iabbrev wiht with
 iabbrev wille will
-iabbrev willk will
 iabbrev willingless willingness
+iabbrev willk will
+iabbrev windoes windows
 iabbrev wirting writing
 iabbrev withdrawl withdrawal
+iabbrev withe with
 iabbrev witheld withheld
 iabbrev withh with
 iabbrev withing within
@@ -4152,6 +4259,7 @@ iabbrev wiull will
 iabbrev wnat want
 iabbrev wnated wanted
 iabbrev wnats wants
+iabbrev woh who
 iabbrev wohle whole
 iabbrev wokr work
 iabbrev wokring working
@@ -4162,13 +4270,14 @@ iabbrev worls world
 iabbrev worstened worsened
 iabbrev woudl would
 iabbrev wresters wrestlers
-iabbrev wriet write
 iabbrev writen written
+iabbrev wrod word
 iabbrev wroet wrote
 iabbrev wrok work
 iabbrev wroking working
 iabbrev wtih with
 iabbrev wupport support
+iabbrev wya way
 iabbrev xenophoby xenophobia
 iabbrev yaching yachting
 iabbrev yaer year
@@ -4181,12 +4290,13 @@ iabbrev yeild yield
 iabbrev yeilding yielding
 iabbrev Yementite Yemenite
 iabbrev yera year
-iabbrev yrea year
 iabbrev yeras years
 iabbrev yersa years
 iabbrev yotube youtube
 iabbrev youseff yousef
 iabbrev youself yourself
+iabbrev yrea year
 iabbrev ytou you
 iabbrev yuo you
+iabbrev yuor your
 iabbrev zeebra zebra
