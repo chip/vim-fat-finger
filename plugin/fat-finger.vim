@@ -851,6 +851,7 @@ iabbrev comissioned commissioned
 iabbrev comissioner commissioner
 iabbrev comissioning commissioning
 iabbrev comissions commissions
+iabbrev comit commit
 iabbrev comited committed
 iabbrev comiting committing
 iabbrev comitted committed
