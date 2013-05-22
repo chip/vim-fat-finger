@@ -6,6 +6,8 @@
 <meta property="og:description" content="This plugin supports over 4,000 common misspellings, as defined  using Vim's iabbrev keyword, which is part of Vim's built-in abbreviations feature.">
 <meta property="og:image" content="http://www.vim.org/images/vim_on_fire.gif">
 
+[![endorse](https://api.coderwall.com/chip/endorsecount.png)](https://coderwall.com/chip)
+
 vim-fat-finger
 ==============
 
@@ -62,3 +64,4 @@ Feel free to follow [chip](http://chipcastle.com) on [Github](https://github.com
 ## Vote for the plugin at vim.org
 [http://www.vim.org/scripts/script.php?script_id=4423](http://www.vim.org/scripts/script.php?script_id=4423)
 
+[![endorse](https://api.coderwall.com/chip/endorsecount.png)](https://coderwall.com/chip)
