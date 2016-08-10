@@ -1407,7 +1407,6 @@ iabbrev ellected elected
 iabbrev elphant elephant
 iabbrev elsef elseif
 iabbrev elseof elseif
-iabbrev elsif elseif
 iabbrev elsiof elseif
 iabbrev elsof elseif
 iabbrev embarass embarrass
