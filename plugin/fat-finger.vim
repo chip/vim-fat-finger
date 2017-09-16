@@ -3118,6 +3118,7 @@ iabbrev proximty proximity
 iabbrev pseudononymous pseudonymous
 iabbrev pseudonyn pseudonym
 iabbrev psuedo pseudo
+iabbrev psot post
 iabbrev psycology psychology
 iabbrev psyhic psychic
 iabbrev pubilsher publisher
