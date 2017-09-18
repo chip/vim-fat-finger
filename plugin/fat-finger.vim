@@ -1374,6 +1374,8 @@ iabbrev eceonomy economy
 iabbrev ecidious deciduous
 iabbrev eclispe eclipse
 iabbrev ecomonic economic
+iabbrev edn end
+iabbrev ednif endif
 iabbrev ect etc
 iabbrev eearly early
 iabbrev efel evil
